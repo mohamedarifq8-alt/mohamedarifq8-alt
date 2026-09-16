@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Mohammed Arif Mahyoub Haider
 
-<!--
-**mohamedarifq8-alt/mohamedarifq8-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical Engineer specializing in Computer Systems and Industrial Control from Sana'a University. I am passionate about the intersection of software engineering and industrial automation.
 
-Here are some ideas to get you started:
+**🚀 What I do:**
+* Building AI-driven systems (Computer Vision & Deep Learning) for real-world applications.
+* Bridging the gap between software algorithms and industrial hardware (PLCs, Microcontrollers).
+* Developing and deploying robust automation control models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack & Tools:**
+* **Languages:** Python, C++, Java, Assembly, MATLAB.
+* **AI & Data:** YOLOv8, TensorFlow, PyTorch, OpenCV, Scikit-Learn.
+* **Industrial & Hardware:** Modbus TCP, TIA Portal, ESP32, Arduino, 8051, Proteus.
+* **Deployment & UI:** Docker, FastAPI, Gradio.
+
+📫 **Let's connect:** [ضع_رابط_حسابك_في_لينكد_إن_هنا]
